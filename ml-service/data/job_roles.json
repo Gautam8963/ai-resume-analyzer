@@ -1,0 +1,222 @@
+{
+    "Frontend Developer": {
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Vue",
+            "Angular",
+            "TypeScript",
+            "Webpack",
+            "Sass",
+            "Redux",
+            "Next.js",
+            "Tailwind CSS",
+            "Responsive Design",
+            "UI/UX",
+            "Git"
+        ],
+        "keywords": [
+            "component",
+            "state management",
+            "hooks",
+            "DOM",
+            "browser",
+            "accessibility",
+            "performance optimization"
+        ]
+    },
+    "Backend Developer": {
+        "skills": [
+            "Node.js",
+            "Python",
+            "Java",
+            "C#",
+            "SQL",
+            "MongoDB",
+            "PostgreSQL",
+            "REST API",
+            "GraphQL",
+            "Express",
+            "Django",
+            "Spring Boot",
+            "Microservices",
+            "Docker",
+            "Redis"
+        ],
+        "keywords": [
+            "database",
+            "API",
+            "server",
+            "authentication",
+            "authorization",
+            "scalability",
+            "caching",
+            "security"
+        ]
+    },
+    "Full Stack Developer": {
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "PostgreSQL",
+            "REST API",
+            "Git",
+            "Docker",
+            "AWS",
+            "TypeScript",
+            "Redux",
+            "SQL"
+        ],
+        "keywords": [
+            "full stack",
+            "end-to-end",
+            "frontend",
+            "backend",
+            "database",
+            "deployment",
+            "CI/CD",
+            "architecture"
+        ]
+    },
+    "Data Analyst": {
+        "skills": [
+            "Python",
+            "SQL",
+            "Excel",
+            "Tableau",
+            "Power BI",
+            "Pandas",
+            "NumPy",
+            "Data Visualization",
+            "Statistics",
+            "R",
+            "ETL",
+            "Data Cleaning",
+            "Business Intelligence"
+        ],
+        "keywords": [
+            "data analysis",
+            "visualization",
+            "insights",
+            "metrics",
+            "reporting",
+            "dashboard",
+            "trends",
+            "statistical analysis"
+        ]
+    },
+    "ML Engineer": {
+        "skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn",
+            "Pandas",
+            "NumPy",
+            "Machine Learning",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "Model Deployment",
+            "MLOps",
+            "Kubernetes"
+        ],
+        "keywords": [
+            "model",
+            "training",
+            "neural network",
+            "algorithm",
+            "prediction",
+            "classification",
+            "regression",
+            "deployment",
+            "optimization"
+        ]
+    },
+    "Mobile Developer": {
+        "skills": [
+            "React Native",
+            "Flutter",
+            "Swift",
+            "Kotlin",
+            "Java",
+            "iOS",
+            "Android",
+            "Mobile UI",
+            "API Integration",
+            "Firebase",
+            "Push Notifications",
+            "App Store"
+        ],
+        "keywords": [
+            "mobile",
+            "app",
+            "iOS",
+            "Android",
+            "native",
+            "cross-platform",
+            "responsive",
+            "performance"
+        ]
+    },
+    "UI/UX Designer": {
+        "skills": [
+            "Figma",
+            "Adobe XD",
+            "Sketch",
+            "Prototyping",
+            "Wireframing",
+            "User Research",
+            "Usability Testing",
+            "Design Systems",
+            "Typography",
+            "Color Theory",
+            "Responsive Design"
+        ],
+        "keywords": [
+            "user experience",
+            "user interface",
+            "design",
+            "prototype",
+            "wireframe",
+            "usability",
+            "accessibility",
+            "user-centered"
+        ]
+    },
+    "DevOps Engineer": {
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Azure",
+            "GCP",
+            "CI/CD",
+            "Jenkins",
+            "GitLab CI",
+            "Terraform",
+            "Ansible",
+            "Linux",
+            "Monitoring",
+            "Logging",
+            "Security"
+        ],
+        "keywords": [
+            "deployment",
+            "automation",
+            "infrastructure",
+            "cloud",
+            "containers",
+            "orchestration",
+            "monitoring",
+            "scalability"
+        ]
+    }
+}
